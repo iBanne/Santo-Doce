@@ -1,0 +1,59 @@
+:root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+    --creme:#FFF8E0;
+    --chocolate:#8B4338;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.centralizado{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.form-control
+{
+    background-color: var(--creme);
+}
+
+label
+{
+    color: var(--chocolate);
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+.btn-julia
+{
+    background-color: var(--titulorosa);
+    color: var(--creme);
+    border-radius: 20px;
+    border-style: none;
+    border-style: none;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16pt;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-julia:hover
+{
+    background-color: var(--chocolate);
+    border-color: var(--titulorosa);
+    color: var(--creme);
+    border-style: none;
+    width: 300px;
+}
+

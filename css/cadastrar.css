@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Pacifico&family=Yuji+Hentaigana+Akebono&display=swap');
+
+
+root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+    --creme:#FFF8E0;
+    --chocolate:#8B4338;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.cadastrar
+{
+    background-color: #BFA1C9;
+    width: 600px;
+    height: 300px;
+    border-radius: 50px;
+    margin: 0 auto;  
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+}
+
+.cadastrar h1
+{
+    padding-top: 50px;
+    color: var(--creme);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.btnCadastrar
+{
+    background-color: var(--creme);
+    border-radius: 20px;
+    border-style: none;
+    border-style: none;
+    color: var(--chocolate);
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    font-size: 16pt;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.btnCadastrar:hover
+{
+    background-color: var(--chocolate);
+    border-color: var(--titulorosa);
+    color: var(--creme);
+}
+
+.cookie
+{
+    position: relative;
+    left: -25px;
+    width: 135px;
+}
+
+
+

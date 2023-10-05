@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Pacifico&family=Yuji+Hentaigana+Akebono&display=swap');
+
+:root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+}
+
+body{
+    margin: 0 auto;
+}
+
+body
+{
+    background-image: url(/image/BackgroundSD.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

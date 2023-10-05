@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Pacifico&family=Yuji+Hentaigana+Akebono&display=swap');
+
+:root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+    --creme:#FFF8E0;
+    --chocolate:#8B4338;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.bolos
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 120px;
+}
+
+.bolos img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.bolos h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.biscoitos
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.biscoitos img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.biscoitos h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tortas
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 480px;
+}
+
+.tortas img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.tortas h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.cremes
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+}
+
+.cremes img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.cremes h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.mousses
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 1365px;
+    bottom: 980px;
+}
+
+.mousses img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.mousses h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+.doces-finos
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 1365px;
+    bottom: 1000px;
+}
+
+.doces-finos img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.doces-finos h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}

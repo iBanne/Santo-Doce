@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Pacifico&family=Yuji+Hentaigana+Akebono&display=swap');
+
+:root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+    --creme:#FFF8E0;
+    --chocolate:#8B4338;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.tortamorango
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 120px;
+}
+
+.tortamorango img
+{
+    width: 160px;
+    height: 150px;
+    border-radius: 20px;
+    left: 20px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.tortamorango h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.biscoitos
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.biscoitos img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.biscoitos h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tortaamora
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 480px;
+}
+
+.tortaamora img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.tortaamora h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tortadoceleite
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+}
+
+.tortadoceleite img
+{
+    width: 160px;
+    height: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.tortadoceleite h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.mousses
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 1365px;
+    bottom: 980px;
+}
+
+.mousses img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.mousses h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}
+.doces-finos
+{
+    width: 200px;
+    height: 200px;
+    background-color: var(--creme);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 1365px;
+    bottom: 1000px;
+}
+
+.doces-finos img
+{
+    width: 150px;
+    border-radius: 20px;
+    left: 25px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.doces-finos h1
+{
+    font-size: 16pt;
+    font-family:'Josefin Sans', sans-serif;
+    color: var(--chocolate);
+    text-align: center;
+    margin-top: 10px;
+}

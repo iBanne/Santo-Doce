@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Pacifico&family=Yuji+Hentaigana+Akebono&display=swap');
+:root
+{
+    --navbar:#ffffff;
+    --titulorosa:#FF83A8;
+    --tituloroxo:#BFA1C9;
+    --rosabackground:#FFD9DD;
+}
+
+body{
+    margin: 0 auto;
+}
+
+body
+{
+    background-image: url(/image/BackgroundSD.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    height: 70px;
+    background-color: var(--navbar);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.topnav
+{
+   overflow: hidden; 
+   background-color: var(--navbar);
+   margin-top: 20;
+   flex-wrap: wrap;
+}
+
+.topnav span{
+    float: left;
+    display: flex;
+    color: var(--chocolate);
+    padding: 15px ;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.topnav a
+{   
+    float: left;
+    display: flex;
+    color: var(--titulorosa);
+    padding: 15px ;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+.topnav a:hover
+{
+    color: var(--chocolate);
+    border-bottom: var(--tituloroxo) 2px;
+}
+
+.topnav img
+{
+  float: left;
+  width: 100px; 
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
